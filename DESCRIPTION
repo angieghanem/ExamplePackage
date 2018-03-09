@@ -1,0 +1,15 @@
+Package: ClassExample
+Type: Package
+Title: Functions from Homework 2
+Version: 0.1.0
+Author: Angie Ghanem
+Maintainer: Angie Ghanem <angieghanem@ucla.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: UCLA
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    ggplot2
+RoxygenNote: 6.0.1
